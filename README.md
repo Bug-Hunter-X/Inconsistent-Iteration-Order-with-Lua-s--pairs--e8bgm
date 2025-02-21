@@ -1,0 +1,1 @@
+This repository demonstrates a potential issue with Lua's `pairs` iterator concerning iteration order inconsistencies.  The `bug.lua` file shows a recursive function that may behave unexpectedly due to this inconsistency.  `bugSolution.lua` offers a safer approach using a different iteration method.
